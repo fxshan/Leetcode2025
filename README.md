@@ -1,4 +1,4 @@
-# Leetcode2025
+# <img src="images/python.gif" alt="Logo" width="30px"> Leetcode2025
 
 <a id="readme-top"></a>
 
@@ -13,7 +13,7 @@
   <h3>Data Structures and Algorithms</h3>
 
   <p align="center">
-    Do what you say,say what you do.
+    Do what you say, say what you do.
   </p>
 </div>
 
@@ -42,31 +42,14 @@
 
 ## Data Structures
 
-### String
+### String <a href="#readme-top">🔝</a>
 
 * The length of the string could be determined using the built-in `len()` function.
 * A string could be iterated by its index (from 0 to len(s)-1).
-* `range(n)` iterates over [0, n), from 0 to n-1.
+* `range(n)` covers [0, n), from 0 to n-1.
+* for loop can iterate a list (e.g. [1, 3, 5, 10])
 
-* a
-* a
-* a
-* a
-* a
-* a
-* a
-* a
-* a
-* a
 
-* a
-* a
-* a
-* a
-* a
-* a
-* a
-* a
 
 <p align="right"><a href="#readme-top">🔝</a></p>
 
