@@ -48,7 +48,25 @@
 * A string could be iterated by its index (from 0 to len(s)-1).
 * `range(n)` iterates over [0, n), from 0 to n-1.
 
+* a
+* a
+* a
+* a
+* a
+* a
+* a
+* a
+* a
+* a
 
+* a
+* a
+* a
+* a
+* a
+* a
+* a
+* a
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">🔝</a></p>
 
