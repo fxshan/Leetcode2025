@@ -45,9 +45,12 @@
 ### String <a href="#readme-top">🔝</a>
 
 * The length of the string could be determined using the built-in `len()` function.
-* A string could be iterated by its index (from 0 to len(s)-1).
+* A string could be iterated by its index (from 0 to len(s)-1). So if a string `s` has `len(s)` elements, when `i = len(s)`, there are no more elements left to iterate through, and the loop ends.
 * `range(n)` covers [0, n), from 0 to n-1.
 * for loop can iterate a list (e.g. [1, 3, 5, 10])
+* `split()` method splits a string into a list.
+* Slicing: `s[i:j]` extracts a substring from the index i (inclusive) to the index j (exclusive); For `s[:j]`, Python assumes `i = 0`; For `s[i:]`, Python assumes `j = len(s)`; For `s[-m:-n]` extracts characters from index -m to index -n (excluding the character at -m), where `-1` refers to the last character.
+* `join()` method takes all items in an iterable and joins them into one string. `res = separator.join(iterable)` where the iterable could be a string or a tuple or a dictrionary etc.
 
 
 
