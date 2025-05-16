@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/fxshan/Leetcode2025.git">
-    <img src="images/Sleepy Head.gif" alt="Logo">
+    <img src="images/Girl typing on Laptop.gif" alt="Logo" width="300px">
   </a>
 
   <h3>Data Structures and Algorithms</h3>
